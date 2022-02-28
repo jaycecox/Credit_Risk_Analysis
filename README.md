@@ -5,5 +5,9 @@ To use different techniques to train and evaluate models based on a credit card 
 # Results
 
 **RandomOversampler**
+-
+
+![RandomOverSampler](https://user-images.githubusercontent.com/92542382/155917817-b7312784-c156-40e2-b73e-4c8e30968866.PNG)
+
 
 
