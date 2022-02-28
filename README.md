@@ -23,7 +23,7 @@ Precision and Recall
 
 ![SMOTE](https://user-images.githubusercontent.com/92542382/155918130-20048010-1b24-4105-841e-60e10a144e63.PNG)
 
-**Undersampling**
+**Undersampling (ClusterCentroids)**
 
 Accuracy Score:
 
@@ -33,7 +33,7 @@ Precision and Recall
 
 ![Undersampling](https://user-images.githubusercontent.com/92542382/155918225-28d38dd2-a371-4b9a-abce-bb5f0e270a6c.PNG)
 
-**Combination (Over and Under) Sampling**
+**Combination (Over and Under) Sampling (SMOTEENN)**
 
 Accuracy Score:
 
@@ -63,4 +63,4 @@ Precision and Recall
 
 ![easyensemble](https://user-images.githubusercontent.com/92542382/155918536-e78cf897-5fb9-4449-8d10-10fcb6c2764c.PNG)
 
-
+# Summary 
