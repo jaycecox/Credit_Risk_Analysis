@@ -13,5 +13,54 @@ Accuracy Score:
 Precision and Recall 
 ![RandomOverSampler](https://user-images.githubusercontent.com/92542382/155917817-b7312784-c156-40e2-b73e-4c8e30968866.PNG)
 
+**SMOTE Oversampling**
+
+Accuracy Score:
+
+0.8440938486973113
+
+Precision and Recall 
+
+![SMOTE](https://user-images.githubusercontent.com/92542382/155918130-20048010-1b24-4105-841e-60e10a144e63.PNG)
+
+**Undersampling**
+
+Accuracy Score:
+
+0.8203882595930314
+
+Precision and Recall 
+
+![Undersampling](https://user-images.githubusercontent.com/92542382/155918225-28d38dd2-a371-4b9a-abce-bb5f0e270a6c.PNG)
+
+**Combination (Over and Under) Sampling
+
+Accuracy Score:
+
+0.844016280135965
+
+Precision and Recall 
+
+![Combo](https://user-images.githubusercontent.com/92542382/155918320-08fac51a-076f-4b01-8bff-fa21906fa743.PNG)
+
+**Balance Random Forest Classifier**
+
+Accuracy Score:
+
+0.784
+
+Precision and Recall 
+
+![randomforest](https://user-images.githubusercontent.com/92542382/155918438-f3536038-2767-4db9-a2d9-c2e5b0b80c56.PNG)
+
+**Easy Ensemble AdaBoost Classifier**
+
+Accuracy Score:
+
+0.931601605553446
+
+Precision and Recall 
+
+![easyensemble](https://user-images.githubusercontent.com/92542382/155918536-e78cf897-5fb9-4449-8d10-10fcb6c2764c.PNG)
 
 
