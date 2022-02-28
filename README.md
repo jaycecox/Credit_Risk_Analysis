@@ -33,7 +33,7 @@ Precision and Recall
 
 ![Undersampling](https://user-images.githubusercontent.com/92542382/155918225-28d38dd2-a371-4b9a-abce-bb5f0e270a6c.PNG)
 
-**Combination (Over and Under) Sampling
+**Combination (Over and Under) Sampling**
 
 Accuracy Score:
 
