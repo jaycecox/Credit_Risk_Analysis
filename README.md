@@ -64,3 +64,10 @@ Precision and Recall
 ![easyensemble](https://user-images.githubusercontent.com/92542382/155918536-e78cf897-5fb9-4449-8d10-10fcb6c2764c.PNG)
 
 # Summary 
+
+As you can see above the,  precision and F1 scores of the RandomOverSampler,  SMOTE, Undersampler (ClusterCentroid),  Combination (SMOTEENN), and Balance Random Forest Classifier methods are much too low to warrant their use as models for high risk credit.   However, they would be great models to predict low risk credit.
+
+The EasyEnsemble was the best model in predicting high risk credit with an f1 score of .16 and recall score of .92.  This is despite a precision score of only .09. 
+
+In relation to the scores of the other models, I would recommend using the EasyEnsemble method.
+
